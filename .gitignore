@@ -1,0 +1,26 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore editor swap files
+*.swp
+*.swo
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore environment variable files
+.env
+.env.*
+
+# Ignore compiled binaries
+*.out
+
+# Ignore backup files
+*~
+
+# Ignore any credentials or token files
+token.txt
+
+# Ignore node_modules if you use JavaScript scripts
+node_modules/
